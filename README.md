@@ -69,4 +69,5 @@ Flujo recomendado para probar
 
 Esto se refleja en la ejecución y también en la base de datos.
 
-Enlace al video
+Link Video Youtube
+https://www.youtube.com/watch?v=NGb2ze71KVw
