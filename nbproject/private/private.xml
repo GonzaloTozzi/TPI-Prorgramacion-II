@@ -2,18 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/app/AppMenu.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/app/Main.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/config/DatabaseConnection.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/dao/EnvioDao.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/dao/GenericDao.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/dao/PedidoDao.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/model/Envio.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/model/Pedido.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/service/EnvioService.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/service/GenericService.java</file>
-            <file>file:/C:/Users/Gonzalo/Documents/NetBeansProjects/TPI_Prg2/src/service/PedidoService.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
